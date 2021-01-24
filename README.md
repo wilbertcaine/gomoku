@@ -1,3 +1,3 @@
 # gomoku
 
-![Gomoku Demo](https://media.giphy.com/media/ESWckvlarWB9uOlQZK/giphy.gif)
+![Gomoku Demo gif](https://media.giphy.com/media/RNuPGN4AzPY8xdM9vn/giphy.gif)
